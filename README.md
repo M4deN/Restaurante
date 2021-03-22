@@ -1,6 +1,6 @@
 # SGA Sistema De Gerenciamento Agrícola
 
- Site para o projeto oficina de integração onde construimos um sistema de gerenciamento agricola, o sistema tinha como intuito a administração
+ Site para o projeto oficina de integração para um sistema de gerenciamento agricola, o sistema tinha como intuito a administração
  de propriedades com uma taxa significativa de plantio.
 
  * O sistema administrava toda a parte de estoque, incluindo insumos reserva de água e sementes para o plantio.
