@@ -9,4 +9,4 @@
  * controle de funcionários responsável por trabalhar no plantio/colheita.
  * estimativa de melhor momento para a venda baseado em dados do território nacional.
 
- site ainda em contrução.
+ site ainda em construção.
