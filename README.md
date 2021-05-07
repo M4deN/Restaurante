@@ -1,12 +1,11 @@
-# SGA Sistema De Gerenciamento Agrícola
+# SGA Agricultural Management System
 
- Site para o projeto oficina de integração para um sistema de gerenciamento agricola, o sistema tinha como intuito a administração
- de propriedades com uma taxa significativa de plantio.
+ Site for the integration workshop project for an agricultural management system, the system was intended for administration
+ of properties with a significant planting rate.
 
- * O sistema administra toda a parte de estoque, incluindo insumos reserva de água e sementes para o plantio.
- * faz o controle de saída de grãos para as cooperativas.
- * total integração com o agronômo responsável pela administração do plantio.
- * controle de funcionários responsável por trabalhar no plantio/colheita.
- * estimativa de melhor momento para a venda baseado em dados do território nacional.
-
- site ainda em construção.
+ * The system manages the entire stock portion, including water and seed reserve inputs for planting.
+ * Manages grain output control for cooperatives.
+ * full integration with the agronomist responsible for plantation management.
+ * control of employees responsible for working on planting / harvesting.
+ * estimate of the best time for sale based on data from the national territory.
+ site still under construction.
