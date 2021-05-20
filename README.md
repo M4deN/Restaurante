@@ -12,4 +12,4 @@
 
 ### Página principal.
 
-![Começo](https://github.com/AlexDeSaran/Site-Agricola/blob/main/images/Capturar.PNG)
+![Começo](https://github.com/AlexDeSaran/Site-Agricola/blob/main/images/Capturar22.PNG)
