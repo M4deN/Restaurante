@@ -12,4 +12,4 @@
 
 ### Página principal.
 
-![Começo](https://github.com/AlexDeSaran/Amazon-Prime/blob/main/Imagens/Capturar.PNG)
+![Começo](https://github.com/AlexDeSaran/Site-Agricola/blob/main/images/Capturar.PNG)
