@@ -129,7 +129,7 @@ nav#menu ul{
 nav#menu li{
 
 	display: inline-block;
-	background-color:#221d1d;
+	background-color:#353535;
 	padding: 10px;
 	margin:2px;
 }
@@ -147,5 +147,5 @@ a:hover{
 	text-decoration:;
 }
 nav#menu li:hover{
-	background-color: #e0d3d3;
+	background-color: #ffffff;
 }
