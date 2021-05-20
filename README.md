@@ -9,3 +9,7 @@
  * control of employees responsible for working on planting / harvesting.
  * estimate of the best time for sale based on data from the national territory.
  site still under construction.
+
+### Página principal.
+
+![Começo](https://github.com/AlexDeSaran/Amazon-Prime/blob/main/Imagens/Capturar.PNG)
