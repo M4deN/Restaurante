@@ -1,8 +1,8 @@
-<h1> Projeto Calculadora IMC </h1>
-<p><b>Site funcional para calcular o IMC. 🧮</b></p>
+<h1> Projeto Restaurante </h1>
+<p><b>Site funcional para Um Restaurante. 🧮</b></p>
 
 [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](http://shields.io/)
-<a href="https://alexdesaran.github.io/Calculo-IMC/"> Visite o site! </a>
+<a href="https://alexdesaran.github.io/Restaurante/"> Visite o site! </a>
 
 <h4> 
 	Projeto Concluído ✅
@@ -40,15 +40,13 @@ Foi desenvolvido diretamente no código, sem o uso de Wireframe.</p>
 
 ![Começo](https://github.com/AlexDeSaran/Restaurante/blob/main/images/Capturar1.PNG)
 
-<h3>Sessão Principal mostrando o IMC:</h3>
+<h3>Sessão Principal mostrando o os menus:</h3>
 
-![Começo](https://github.com/AlexDeSaran/Restaurante/blob/main/images/Capturar2.PNG)
+![Começo](https://github.com/AlexDeSaran/Restaurante/blob/main/images/Capturar3.PNG)
 
 
 
-<h2 id="autor">Autor do Projeto:</h2>
-
-<h3>Alécio L. Medeiros</h3>
+<h2 id="autor">Autor do Projeto: Alécio L. Medeiros</h2>
 
 <p> 
   <a href="https://www.linkedin.com/in/alex-leandro-medeiros-5b68741a3/">
@@ -66,14 +64,6 @@ Foi desenvolvido diretamente no código, sem o uso de Wireframe.</p>
 
 <ul>
   <li>Estudante De Engenharia De Software</li>
-  <li>Adentrando a UX/UI </li>
 </ul>
 
 
-
-![Começo](https://github.com/AlexDeSaran/Restaurante/blob/main/images/Capturar1.PNG)
-![Começo](https://github.com/AlexDeSaran/Restaurante/blob/main/images/Capturar2.PNG)
-![Começo](https://github.com/AlexDeSaran/Restaurante/blob/main/images/Capturar3.PNG)
-![Começo](https://github.com/AlexDeSaran/Restaurante/blob/main/images/Capturar4.PNG)
-![Começo](https://github.com/AlexDeSaran/Restaurante/blob/main/images/Capturar5.PNG)
-![Começo](https://github.com/AlexDeSaran/Restaurante/blob/main/images/Capturar6.PNG)
