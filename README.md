@@ -31,7 +31,7 @@ Foi desenvolvido diretamente no código.</p>
 
 <h2 id="sessao">Sessão do Projeto:</h2>
 
-<p>A página apresenta apenas uma sessão, que é a sessão principal. Nela menu na parte superior para a navegação na página<p>
+<p>A página apresenta algumas sessões, essa é a sessão principal. Nela contém um menu na parte superior para a navegação na página<p>
 
 <h3>Sessão Principal:</h3>
 
