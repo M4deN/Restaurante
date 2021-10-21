@@ -60,8 +60,7 @@ Foi desenvolvido diretamente no código, sem o uso de Wireframe.</p>
   </a>   
 </p>
 
-<ul>
-  <li>Estudante De Engenharia De Software</li>
-</ul>
+#### Estudante De Engenharia De Software
+
 
 
