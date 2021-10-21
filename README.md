@@ -44,7 +44,7 @@ Foi desenvolvido diretamente no código, sem o uso de Wireframe.</p>
 
 
 
-<h2 id="autor">Autor do Projeto: Alécio L. Medeiros</h2>
+##### Autor do Projeto: Alécio L. Medeiros
 
 <p> 
   <a href="https://www.linkedin.com/in/alex-leandro-medeiros-5b68741a3/">
