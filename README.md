@@ -17,7 +17,7 @@
 
 <h2 id="sobre">Sobre</h2>
 <p>Esse projeto Foi desenvolvido a fins de estudos e práticas para Desenvolvimento web e práticas de responsividade. O projeto não teve protótipo.
-Foi desenvolvido diretamente no código, sem o uso de Wireframe.</p>
+Foi desenvolvido diretamente no código.</p>
 
 <p>O projeto está Totalmente responsivo, atendendo a todos os dispositivos.</p>
 
@@ -31,7 +31,7 @@ Foi desenvolvido diretamente no código, sem o uso de Wireframe.</p>
 
 <h2 id="sessao">Sessão do Projeto:</h2>
 
-<p>A página apresenta apenas uma sessão, que é a sessão principal. Nela contém a calculadora IMC e a classificação de IMC<p>
+<p>A página apresenta apenas uma sessão, que é a sessão principal. Nela menu na parte superior para a navegação na página<p>
 
 <h3>Sessão Principal:</h3>
 
