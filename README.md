@@ -1,8 +1,7 @@
 <h1> Projeto Restaurante </h1>
-<p><b>Site funcional para Um Restaurante. 🧮</b></p>
+<p><b>Sisitema Web Funcional para Um Restaurante. 🧮</b></p>
 
 [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](http://shields.io/)
-<a href="https://alexdesaran.github.io/Restaurante/"> Visite o site! </a>
 
 <h4> 
 	Projeto Concluído ✅
@@ -10,9 +9,8 @@
 
 <ul>
  <li><a href="#sobre">Sobre</a></li>
- <li><a href="#tecnologias">Técnologias usadas</a></li> 
- <li><a href="#sessao">sessão da página</a></li>
- <li><a href="#autor">Autor</a></li> 
+ <li><a href="#tecnologias">Tecnologias</a></li> 
+ <li><a href="#sessao">Sessões do Projeto</a></li>
 </ul>
 
 <h2 id="sobre">Sobre</h2>
@@ -21,7 +19,7 @@ Foi desenvolvido diretamente no código.</p>
 
 <p>O projeto está Totalmente responsivo, atendendo a todos os dispositivos.</p>
 
-<h2 id="tecnologias">Técnologias Usadas:</h2>
+<h2 id="tecnologias">Tecnologias:</h2>
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -29,19 +27,18 @@ Foi desenvolvido diretamente no código.</p>
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 </p>
 
-<h2 id="sessao">Sessão do Projeto:</h2>
+<h2 id="sessao">Sessões do Projeto:</h2>
 
 <p>A página apresenta algumas sessões, essa é a sessão principal. Nela contém um menu na parte superior para a navegação na página<p>
 
-<h3>Sessão Principal:</h3>
-
-
 ![Começo](https://github.com/AlexDeSaran/Restaurante/blob/main/images/Capturar1.PNG)
 
-<h3>Sessão Principal mostrando o os menus:</h3>
+<h3>Menus:</h3>
 
 ![Começo](https://github.com/AlexDeSaran/Restaurante/blob/main/images/Capturar3.PNG)
 
+---
 
+## Licença
 
-##### Autor do Projeto: Alécio L. Medeiros
+Este projeto está licenciado sob a Licença MIT [LICENSE](LICENSE).
